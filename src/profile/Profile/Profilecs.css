@@ -1,0 +1,15 @@
+.Profile {
+    display: inline;
+    background-color: lightgrey;
+     display: inline;
+    color: rgb(87, 87, 205);
+  }
+  
+  h1 {
+    background-color: black;
+    color: white;
+  }
+  
+  div {
+    background-color: rgb(120, 120, 179);
+    color: white;
